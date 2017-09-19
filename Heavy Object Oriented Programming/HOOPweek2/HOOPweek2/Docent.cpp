@@ -2,8 +2,9 @@
 
 
 
-Docent::Docent()
+Docent::Docent(string n)
 {
+	naam = n;
 }
 
 

@@ -1,8 +1,18 @@
+using namespace std;
 #pragma once
-class Student
+#include <iostream>
+#include <string> 
+#include <vector>
+#include "Module.h"
+class Student 
 {
 public:
-	Student();
+	string naam;
+	int ecTotaal;
+	vector<Module*> modForEc;
+
+	void bereken();
+	Student(string n);
 	~Student();
 };
 

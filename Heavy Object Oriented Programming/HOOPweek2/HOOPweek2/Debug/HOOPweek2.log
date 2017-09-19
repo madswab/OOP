@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek2\hoopweek2\main.cpp(40): warning C4018: '<': signed/unsigned mismatch
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek2\hoopweek2\main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek2\hoopweek2\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  HOOPweek2.vcxproj -> D:\Documents\School\Jaar2\Heavy Object Oriented Programming\HOOPweek2\Debug\HOOPweek2.exe
+  HOOPweek2.vcxproj -> D:\Documents\School\Jaar2\Heavy Object Oriented Programming\HOOPweek2\Debug\HOOPweek2.pdb (Partial PDB)
