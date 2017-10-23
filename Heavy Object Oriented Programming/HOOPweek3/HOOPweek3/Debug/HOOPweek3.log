@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek3\hoopweek3\main.cpp(19): warning C4018: '<': signed/unsigned mismatch
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek3\hoopweek3\main.cpp(26): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  HOOPweek3.vcxproj -> D:\Documents\School\Jaar2\Heavy Object Oriented Programming\HOOPweek3\Debug\HOOPweek3.exe
+  HOOPweek3.vcxproj -> D:\Documents\School\Jaar2\Heavy Object Oriented Programming\HOOPweek3\Debug\HOOPweek3.pdb (Partial PDB)
