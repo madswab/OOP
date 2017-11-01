@@ -1,0 +1,13 @@
+﻿  Main.cpp
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek4\hoopweek4\main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  d:\documents\school\jaar2\heavy object oriented programming\hoopweek4\hoopweek4\main.cpp(57): note: see reference to function template instantiation 'void sort<std::vector<float,std::allocator<_Ty>>>(T)' being compiled
+          with
+          [
+              _Ty=float,
+              T=std::vector<float,std::allocator<float>>
+          ]
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek4\hoopweek4\main.cpp(25): warning C4018: '<': signed/unsigned mismatch
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek4\hoopweek4\main.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\documents\school\jaar2\heavy object oriented programming\hoopweek4\hoopweek4\main.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  HOOPweek4.vcxproj -> D:\Documents\School\Jaar2\Heavy Object Oriented Programming\HOOPweek4\Debug\HOOPweek4.exe
+  HOOPweek4.vcxproj -> D:\Documents\School\Jaar2\Heavy Object Oriented Programming\HOOPweek4\Debug\HOOPweek4.pdb (Partial PDB)
