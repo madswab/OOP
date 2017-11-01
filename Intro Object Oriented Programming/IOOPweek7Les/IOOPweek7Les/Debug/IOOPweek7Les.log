@@ -1,0 +1,18 @@
+﻿  Main.cpp
+d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\main.cpp(8): error C2259: 'Animal': cannot instantiate abstract class
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\main.cpp(8): note: due to following members:
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\main.cpp(8): note: 'void Animal::MakeNoise(void)': is abstract
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\animal.h(8): note: see declaration of 'Animal::MakeNoise'
+d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\main.cpp(8): error C2512: 'Animal': no appropriate default constructor available
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\animal.h(4): note: see declaration of 'Animal'
+d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\main.cpp(11): error C2259: 'Cat': cannot instantiate abstract class
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\main.cpp(11): note: due to following members:
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\main.cpp(11): note: 'void Animal::MakeNoise(void)': is abstract
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\animal.h(8): note: see declaration of 'Animal::MakeNoise'
+d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\main.cpp(11): error C2512: 'Cat': no appropriate default constructor available
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\cat.h(4): note: see declaration of 'Cat'
+  Cat.cpp
+d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\cat.cpp(6): error C2512: 'Animal': no appropriate default constructor available
+  d:\documents\school\jaar2\intro object oriented programming\ioopweek7les\ioopweek7les\animal.h(4): note: see declaration of 'Animal'
+  Animal.cpp
+  Generating Code...
